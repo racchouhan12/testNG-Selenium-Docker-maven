@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="57842" started-at="2020-01-24T18:13:53 IST" finished-at="2020-01-24T18:14:50 IST">
+    <groups>
+    </groups>
+    <test name="FireFoxTests" duration-ms="57842" started-at="2020-01-24T18:13:53 IST" finished-at="2020-01-24T18:14:50 IST">
+      <class name="com.main.tests.HomePageTest">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.main.tests.HomePageTest@38d8f54a]" name="setup" is-config="true" duration-ms="47100" started-at="2020-01-24T18:13:53 IST" finished-at="2020-01-24T18:14:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                  <![CDATA[public void com.main.tests.HomePageTest.testMultiSelectDropdown(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testMultiSelectDropdown(java.lang.reflect.Method)[pri:0, instance:com.main.tests.HomePageTest@38d8f54a]" name="testMultiSelectDropdown" duration-ms="2630" started-at="2020-01-24T18:14:40 IST" description="Testing multiple select dropdown" finished-at="2020-01-24T18:14:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                  <![CDATA[public void com.main.tests.HomePageTest.testMultiSelectDropdown(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiSelectDropdown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.main.tests.HomePageTest@38d8f54a]" name="tearDown" is-config="true" duration-ms="7631" started-at="2020-01-24T18:14:43 IST" finished-at="2020-01-24T18:14:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.main.tests.HomePageTest -->
+    </test> <!-- FireFoxTests -->
+  </suite> <!-- Suite1 -->
+</testng-results>

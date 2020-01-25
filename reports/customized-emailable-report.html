@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG Report</title>
+<style type="text/css">
+table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}
+td,th {border:1px solid #009;padding:.25em .5em}
+.result th {vertical-align:bottom}
+.param th {padding-left:1em;padding-right:1em}
+.param td {padding-left:.5em;padding-right:2em}
+.stripe td,.stripe th {background-color: #E6EBF9}
+.numi,.numi_attn {text-align:right}
+.total td {font-weight:bold}
+.passedodd td {background-color: #0A0}
+.passedeven td {background-color: #3F3}
+.skippedodd td {background-color: #CCC}
+.skippedodd td {background-color: #DDD}
+.failedodd td,.numi_attn {background-color: #F33}
+.failedeven td,.stripe .numi_attn {background-color: #D00}
+.stacktrace {white-space:pre;font-family:monospace}
+.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="testOverview">
+<tr><th>Test</th><th># passed</th><th># skipped</th><th># failed</th><th>Start<br/>Time</th><th>End<br/>Time</th><th>Total<br/>Time(hh:mm:ss)</th><th>Included<br/>Groups</th><th>Excluded<br/>Groups</th></tr>
+<tr><th colspan="10">Suite1</th></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t1"><b>FireFoxTests</b></a></td><td class="numi">2</td><td class="numi">0</td><td class="numi_attn">1</td><td class="numi">15:25:07</td></td>
+<td class="numi">15:26:07</td></td>
+<td class="numi">00:01:00</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="methodOverview" id="summary">
+<tr><th>Class</th><th>Method</th><th>Exception & screenshot</th><th>Start Time </th><th>Time<br/>(hh:mm:ss)</th></tr>
+<tr><th colspan="5">Suite1</th></tr>
+<tr id="t1"><th colspan="5">FireFoxTests &#8212; failed</th></tr>
+<tr class="failedodd"><td>HomePageTest</td><td><a href="#m1"><b>googleSearch2</b>  </a></td><td class="numi" style="text-align:left;padding-right:2em">java.lang.AssertionError: Test failed<br/></td><td style="text-align:right">15:25:39</td><td class="numi">00:00:03</td></tr>
+<tr><th colspan="5">FireFoxTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">HomePageTest</td><td><a href="#m2"><b>googleSearch</b>  </a></td><td class="numi" style="text-align:left;padding-right:2em"><br/></td><td style="text-align:right">15:25:17</td><td class="numi">00:00:02</td></tr><tr class="passedodd"><td><a href="#m3"><b>googleSearch3</b>  </a></td><td class="numi" style="text-align:left;padding-right:2em"><br/></td><td style="text-align:right">15:25:58</td><td class="numi">00:00:03</td></tr>
+</table>
+<h1>FireFoxTests</h1>
+<h2 id="m1">HomePageTest:googleSearch2</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Param.1</th></tr>
+<tr class="param stripe"><td>public void HomePageTest.googleSearch2(java.lang.reflect.Method)</td>
+</tr>
+<tr><td>
+<div class="stacktrace">java.lang.AssertionError: Test failed
+    at HomePageTest.googleSearch2(HomePageTest.java:32)
+    at java.util.ArrayList.forEach(ArrayList.java:1257)
+    at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+    at java.lang.Thread.run(Thread.java:748)
+    ... Removed 19 stack frames</div>
+</td></tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m2">HomePageTest:googleSearch</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Param.1</th></tr>
+<tr class="param stripe"><td>public void HomePageTest.googleSearch(java.lang.reflect.Method)</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">HomePageTest:googleSearch3</h2>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr class="param"><th>Param.1</th></tr>
+<tr class="param stripe"><td>public void HomePageTest.googleSearch3(java.lang.reflect.Method)</td>
+</tr>
+</table>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<center> Report customized </center>
+</body></html>

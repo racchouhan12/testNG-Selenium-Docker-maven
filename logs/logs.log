@@ -1,0 +1,632 @@
+[DEBUG] 2020-01-14 12:56:47.039 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 12:56:47.043 [main] ExcelUtils - Number of columns found:6
+[DEBUG] 2020-01-14 12:58:04.389 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 12:58:04.393 [main] ExcelUtils - Number of columns found:6
+[DEBUG] 2020-01-14 13:03:43.711 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 13:03:43.715 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - 1,
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - Rakesh,
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - 12,
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - 28,
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - Mumbai,
+[INFO ] 2020-01-14 13:03:44.219 [main] ExcelUtils - india,
+[INFO ] 2020-01-14 13:03:44.220 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:03:44.220 [main] ExcelUtils - George,
+[INFO ] 2020-01-14 13:03:44.220 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - 30,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - California,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - United states of america,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:03:44.221 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:03:44.222 [main] ExcelUtils - null,
+[DEBUG] 2020-01-14 13:05:04.126 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 13:05:04.131 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:05:04.384 [main] ExcelUtils - 1,
+[INFO ] 2020-01-14 13:05:04.384 [main] ExcelUtils - Rakesh,
+[INFO ] 2020-01-14 13:05:04.384 [main] ExcelUtils - 12,
+[INFO ] 2020-01-14 13:05:04.384 [main] ExcelUtils - 28,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - Mumbai,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - india,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - George,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - 30,
+[INFO ] 2020-01-14 13:05:04.385 [main] ExcelUtils - California,
+[INFO ] 2020-01-14 13:05:04.386 [main] ExcelUtils - United states of america,
+[INFO ] 2020-01-14 13:05:04.386 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:05:04.386 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:05:04.386 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:05:04.386 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:05:04.387 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:05:04.387 [main] ExcelUtils - null,
+[DEBUG] 2020-01-14 13:07:09.284 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 13:07:09.290 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:07:47.856 [main] ExcelUtils - 1,
+[INFO ] 2020-01-14 13:07:47.856 [main] ExcelUtils - Rakesh,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - 12,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - 28,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - Mumbai,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - india,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:07:47.857 [main] ExcelUtils - George,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - 30,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - California,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - United states of america,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:07:47.858 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:07:47.859 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:07:47.859 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:07:47.859 [main] ExcelUtils - null,
+[INFO ] 2020-01-14 13:07:47.859 [main] ExcelUtils - null,
+[DEBUG] 2020-01-14 13:09:11.646 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 13:09:11.650 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:09:11.650 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:09:11.888 [main] ExcelUtils - 1,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - Rakesh,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - 12,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - 28,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - Mumbai,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - india,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:09:11.889 [main] ExcelUtils - George,
+[INFO ] 2020-01-14 13:09:11.890 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:09:11.890 [main] ExcelUtils - 30,
+[INFO ] 2020-01-14 13:09:11.890 [main] ExcelUtils - California,
+[INFO ] 2020-01-14 13:09:11.890 [main] ExcelUtils - United states of america,
+[DEBUG] 2020-01-14 13:09:37.996 [main] ExcelUtils - Row count 3
+[INFO ] 2020-01-14 13:09:37.999 [main] ExcelUtils - Number of columns found:6
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - Test data,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - Name,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - roll no ,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - age,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - city,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - country,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - 1,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - Rakesh,
+[INFO ] 2020-01-14 13:09:38.240 [main] ExcelUtils - 12,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - 28,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - Mumbai,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - india,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - George,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - 22,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - 30,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - California,
+[INFO ] 2020-01-14 13:09:38.241 [main] ExcelUtils - United states of america,
+[DEBUG] 2020-01-14 13:16:26.889 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 13:16:27.036 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 13:16:27.036 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 13:16:27.236 [TestNG-tests-2] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 13:16:27.242 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 13:16:27.636 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 13:16:27.637 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 13:16:30.780 [main] Command - 128
+[DEBUG] 2020-01-14 13:16:30.780 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 13:16:33.906 [main] Command - 128
+[DEBUG] 2020-01-14 13:17:47.936 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 13:17:48.075 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 13:17:48.075 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 13:17:48.199 [TestNG-tests-2] ExternalDataProvider - Method called name is twitterTest
+[INFO ] 2020-01-14 13:17:48.201 [TestNG-tests-1] ExternalDataProvider - Method called name is twitterTest
+[INFO ] 2020-01-14 13:17:48.280 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 13:17:48.281 [TestNG-tests-2] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 13:17:48.633 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 13:17:48.634 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 13:17:51.741 [main] Command - 128
+[DEBUG] 2020-01-14 13:17:51.741 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 13:17:54.872 [main] Command - 128
+[DEBUG] 2020-01-14 13:19:00.794 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 13:19:00.952 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 13:19:00.952 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 13:19:01.082 [TestNG-tests-2] ExternalDataProvider - Method called name is twitterTest
+[INFO ] 2020-01-14 13:19:01.082 [TestNG-tests-1] ExternalDataProvider - Method called name is twitterTest
+[INFO ] 2020-01-14 13:19:01.090 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 13:19:01.090 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 13:19:05.475 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:19:05.476 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:19:09.654 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:19:09.655 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[DEBUG] 2020-01-14 13:19:11.817 [TestNG-tests-2] ExtentTestManager - Thread IDs are : 15
+[INFO ] 2020-01-14 13:19:13.569 [TestNG-tests-2] BasePage - Checking for the object!!
+[DEBUG] 2020-01-14 13:19:14.217 [TestNG-tests-1] ExtentTestManager - Thread IDs are : 14
+[INFO ] 2020-01-14 13:19:14.594 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:15.605 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:16.278 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:16.626 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:17.298 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:17.655 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:18.305 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:18.673 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:19.312 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:19.704 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:20.329 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:20.729 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:21.344 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:21.761 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:22.351 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:22.786 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:23.373 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:23.815 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:24.388 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:24.845 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:25.401 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:25.868 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:26.415 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:26.893 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:27.431 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:27.912 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:28.444 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:28.932 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:29.455 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:29.960 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:30.476 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:30.987 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:31.487 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:32.013 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:33.038 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:34.051 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:34.660 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:19:34.665 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 13:19:35.061 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:36.072 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:37.085 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:38.101 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:39.061 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:19:39.062 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:19:39.115 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:19:45.317 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:19:45.375 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 13:20:07.166 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:20:07.413 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 13:20:12.625 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:20:12.626 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:20:27.649 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:20:27.951 [TestNG-tests-2] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 13:20:28.018 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 13:20:28.019 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 13:20:31.130 [main] Command - 0
+[DEBUG] 2020-01-14 13:20:31.131 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 13:20:34.266 [main] Command - 0
+[DEBUG] 2020-01-14 13:34:07.539 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 13:34:07.681 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 13:34:07.681 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 13:34:07.804 [TestNG-tests-1] ExternalDataProvider - Extracting data for methodtwitterTestTest data Excel file name should be same as Method name.
+[INFO ] 2020-01-14 13:34:07.804 [TestNG-tests-1] ExternalDataProvider - Test data filename is C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/twitterTest.xlsx
+[INFO ] 2020-01-14 13:34:07.806 [TestNG-tests-2] ExternalDataProvider - Extracting data for methodtwitterTestTest data Excel file name should be same as Method name.
+[INFO ] 2020-01-14 13:34:07.806 [TestNG-tests-2] ExternalDataProvider - Test data filename is C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/twitterTest.xlsx
+[INFO ] 2020-01-14 13:34:07.815 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 13:34:07.815 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 13:34:13.961 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:34:13.962 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:34:15.184 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:34:15.185 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[DEBUG] 2020-01-14 13:34:19.677 [TestNG-tests-2] ExtentTestManager - Thread IDs are : 15
+[DEBUG] 2020-01-14 13:34:19.852 [TestNG-tests-1] ExtentTestManager - Thread IDs are : 14
+[INFO ] 2020-01-14 13:34:21.292 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:22.136 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:22.325 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:23.143 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:23.336 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:24.152 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:24.349 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:25.165 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:25.374 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:26.392 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:27.424 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:28.453 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:29.482 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:30.431 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:34:30.442 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 13:34:30.494 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 13:34:34.283 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:34:34.284 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:34:38.017 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:34:42.648 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 13:34:58.583 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:34:58.818 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 13:35:04.045 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 13:35:04.046 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 13:35:10.975 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 13:35:15.334 [TestNG-tests-2] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 13:35:15.387 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 13:35:15.388 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 13:35:18.515 [main] Command - 0
+[DEBUG] 2020-01-14 13:35:18.516 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 13:35:21.648 [main] Command - 0
+[DEBUG] 2020-01-14 15:00:29.197 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 15:00:29.335 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 15:00:29.449 [TestNG-tests-1] ExternalDataProvider - Extracting data for methodtwitterTestTest data Excel file name should be same as Method name.
+[INFO ] 2020-01-14 15:00:29.449 [TestNG-tests-1] ExternalDataProvider - Test data filename is C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/twitterTest.xlsx
+[DEBUG] 2020-01-14 15:00:29.985 [TestNG-tests-1] ExcelUtils - Row count 2
+[INFO ] 2020-01-14 15:00:29.985 [TestNG-tests-1] ExcelUtils - Number of columns found:2
+[INFO ] 2020-01-14 15:00:29.985 [TestNG-tests-1] ExcelUtils - Number of columns found:2
+[INFO ] 2020-01-14 15:00:30.080 [TestNG-tests-1] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 15:00:36.077 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-14 15:00:36.078 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[DEBUG] 2020-01-14 15:00:41.206 [TestNG-tests-1] ExtentTestManager - Thread IDs are : 14
+[INFO ] 2020-01-14 15:00:43.029 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:00:44.058 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:00:44.145 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 15:00:44.369 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:00:44.460 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 15:00:49.276 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 15:00:53.664 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 15:00:53.958 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 15:00:53.959 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 15:00:57.080 [main] Command - 0
+[DEBUG] 2020-01-14 15:00:57.080 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 15:01:00.213 [main] Command - 128
+[DEBUG] 2020-01-14 15:07:23.502 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 15:07:23.639 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 15:07:23.754 [TestNG-tests-1] ExternalDataProvider - Test data filename is C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/commonTestData.xlsx
+[INFO ] 2020-01-14 15:07:24.348 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 15:07:24.597 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 15:07:24.598 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 15:07:27.707 [main] Command - 128
+[DEBUG] 2020-01-14 15:07:27.707 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 15:07:30.833 [main] Command - 128
+[DEBUG] 2020-01-14 15:11:24.534 [main] OneInstance - OneInstance is null intialize it....
+[INFO ] 2020-01-14 15:11:24.669 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 15:11:24.781 [TestNG-tests-1] ExternalDataProvider - Test data filename is C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/commonTestData.xlsx
+[DEBUG] 2020-01-14 15:11:25.311 [TestNG-tests-1] ExcelUtils - Row count 2
+[INFO ] 2020-01-14 15:11:25.311 [TestNG-tests-1] ExcelUtils - Number of columns found:2
+[INFO ] 2020-01-14 15:11:25.311 [TestNG-tests-1] ExcelUtils - Number of columns found:2
+[INFO ] 2020-01-14 15:11:25.383 [TestNG-tests-1] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 15:11:31.363 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-14 15:11:31.363 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[DEBUG] 2020-01-14 15:11:36.427 [TestNG-tests-1] ExtentTestManager - Thread IDs are : 14
+[INFO ] 2020-01-14 15:11:38.203 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:11:39.232 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:11:39.242 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 15:11:39.408 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:11:40.423 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 15:11:40.435 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 15:11:44.990 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 15:11:49.348 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 15:11:49.655 [main] BaseTest - Inside driver cleanUp
+[DEBUG] 2020-01-14 15:11:49.656 [main] Command - Command generated------------------------------taskkill /IM chromedriver.exe /F
+[DEBUG] 2020-01-14 15:11:52.773 [main] Command - 0
+[DEBUG] 2020-01-14 15:11:52.773 [main] Command - Command generated------------------------------taskkill /IM geckodriver.exe /F
+[DEBUG] 2020-01-14 15:11:55.908 [main] Command - 128
+[INFO ] 2020-01-14 17:38:37.347 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 17:38:38.104 [TestNG-tests-1] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 17:38:44.179 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:38:44.179 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:38:51.089 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:38:52.117 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:38:52.136 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:38:52.313 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:38:52.593 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:38:57.529 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:39:01.913 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 17:39:02.216 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-14 17:39:18.738 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 17:39:19.585 [TestNG-tests-1] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 17:39:25.577 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:39:25.577 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:39:33.364 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:39:34.391 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:39:34.453 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:39:34.632 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:39:34.713 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:39:40.177 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:39:44.568 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 17:39:44.870 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-14 17:42:09.659 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 17:42:10.402 [TestNG-tests-1] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 17:42:16.488 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:42:16.489 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:42:21.519 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:42:22.545 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:42:22.561 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:42:22.740 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:42:22.884 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:42:28.027 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:42:28.193 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-14 17:42:28.507 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-14 17:44:03.568 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 17:44:03.568 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 17:44:04.313 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 17:44:04.345 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 17:44:12.247 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:44:12.247 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:44:14.816 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:44:14.816 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:44:16.408 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:17.423 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:17.571 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:44:18.053 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:18.060 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:44:18.204 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:19.227 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:19.238 [TestNG-tests-2] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:44:19.674 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:44:19.779 [TestNG-tests-2] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:44:22.776 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:44:25.547 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:44:30.639 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 17:44:34.731 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:44:34.732 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:44:37.821 [TestNG-tests-1] HomePageTest2 - Running Test test1()
+[INFO ] 2020-01-14 17:44:37.822 [TestNG-tests-1] HomePage - Now inside searchTextFromGoogleHomePage()
+[INFO ] 2020-01-14 17:45:31.282 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:45:33.363 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 17:45:37.449 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:45:37.450 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:45:40.231 [TestNG-tests-1] HomePageTest2 - Running Test test2()
+[INFO ] 2020-01-14 17:45:40.231 [TestNG-tests-1] HomePage - Now inside searchTextFromGoogleHomePage()
+[INFO ] 2020-01-14 17:46:10.695 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:46:10.699 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 17:46:14.863 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:46:14.864 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:46:17.779 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:46:22.148 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 17:46:22.441 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-14 17:46:36.473 [TestNG-tests-2] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-14 17:46:36.473 [TestNG-tests-1] TestListeners - I am in onStart method FireFoxTests
+[INFO ] 2020-01-14 17:46:37.194 [TestNG-tests-1] BaseTest - firefox browser will be launched.
+[INFO ] 2020-01-14 17:46:37.231 [TestNG-tests-2] BaseTest - chrome browser will be launched.
+[INFO ] 2020-01-14 17:46:43.591 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:46:43.593 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:46:47.518 [TestNG-tests-2] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/dev_env/dev_env.properties
+[INFO ] 2020-01-14 17:46:47.519 [TestNG-tests-2] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-14 17:46:49.212 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:50.252 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:51.128 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:51.266 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:51.289 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:46:52.082 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:52.162 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:52.175 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:46:52.521 [TestNG-tests-2] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:46:53.064 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:54.104 [TestNG-tests-2] BasePage - Checking for the object!!
+[INFO ] 2020-01-14 17:46:54.115 [TestNG-tests-2] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-14 17:46:57.167 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:46:58.911 [TestNG-tests-2] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-14 17:47:05.187 [TestNG-tests-1] TestListeners - I am in onFinish method FireFoxTests
+[INFO ] 2020-01-14 17:47:05.456 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:06:16.504 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:06:17.358 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:06:17.369 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:06:17.369 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:06:18.115 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:06:18.117 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:06:18.200 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:06:18.595 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:10:03.137 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:10:03.891 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:10:03.901 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:10:03.902 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:10:04.558 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:10:04.558 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:10:04.632 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:10:04.940 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:13:00.485 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:13:01.360 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:13:42.602 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:13:42.603 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:14:37.883 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:14:37.884 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:14:37.978 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:16:04.367 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:16:05.200 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:16:05.208 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:16:05.208 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:16:06.283 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:16:06.284 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:16:06.363 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:16:06.681 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:18:31.994 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:18:32.777 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:18:38.907 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:18:38.908 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:18:41.587 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:18:41.588 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:18:41.663 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:18:41.948 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:19:27.019 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:19:27.779 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:19:33.903 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:19:33.904 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:19:36.545 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:19:36.545 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:19:36.622 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:19:36.938 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:21:34.847 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:21:35.587 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:25:47.054 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:25:47.899 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:27:43.298 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:27:44.044 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:36:29.173 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:36:29.924 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:36:29.933 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:36:29.933 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:36:30.809 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:36:30.809 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:36:30.873 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:36:31.120 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:36:47.853 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:36:48.602 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:36:48.612 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:36:48.612 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:36:49.420 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:36:49.420 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:36:49.513 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:36:49.832 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:51:38.763 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:51:39.519 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:51:39.527 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:51:39.528 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:51:41.290 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:51:41.292 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:51:41.388 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:51:41.710 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:53:36.398 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:53:37.153 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:53:37.162 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:53:37.162 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:53:38.558 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:53:38.559 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:53:38.631 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:53:38.940 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 16:56:33.820 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 16:56:34.564 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 16:56:34.574 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 16:56:34.574 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 16:56:36.074 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 16:56:36.075 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 16:56:36.148 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 16:56:36.460 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:09:12.957 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:09:13.729 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:09:13.738 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:09:13.738 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:09:20.179 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:09:20.179 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:09:21.179 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:09:21.180 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:09:25.936 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:09:26.205 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:13:36.639 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:13:37.416 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:13:37.424 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:13:37.424 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:13:43.355 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:13:43.355 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:13:48.565 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:13:48.566 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:13:53.328 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:13:53.620 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:16:41.043 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:16:41.816 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:16:41.824 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:16:41.825 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:16:52.077 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:16:52.078 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:16:57.366 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:16:57.625 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:18:25.406 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:18:26.409 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:18:37.424 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:18:37.425 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:19:06.762 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:19:06.763 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:20:07.505 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:20:08.253 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:20:08.262 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:20:08.262 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:20:18.317 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation/src/test/resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-15 17:20:18.318 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-15 17:20:21.866 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-15 17:20:22.964 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-15 17:20:23.103 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-15 17:20:23.405 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-15 17:20:23.607 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-15 17:20:28.390 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-15 17:20:32.754 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:20:33.023 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:23:31.425 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:23:32.170 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:23:38.783 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 17:23:38.783 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 17:23:41.493 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:23:41.820 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:29:32.548 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:29:33.292 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:45:33.194 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:45:33.954 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:45:37.080 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:45:37.404 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:46:43.954 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:46:44.758 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:46:54.850 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:46:55.146 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:53:48.630 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:53:49.517 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 17:53:59.765 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 17:54:00.033 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 17:54:37.199 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 17:54:37.963 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 19:01:01.198 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 19:01:01.949 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 19:01:02.085 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 19:01:02.383 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 19:02:01.516 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 19:02:02.286 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 19:02:07.990 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 19:02:08.245 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-15 19:03:21.087 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-15 19:03:21.929 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-15 19:03:28.264 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-15 19:03:28.264 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-15 19:03:28.830 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-15 19:03:29.183 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 10:12:26.265 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 10:12:27.131 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 10:12:33.804 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 10:12:33.804 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 10:12:35.498 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 10:12:36.420 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 10:27:21.839 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 10:27:22.607 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 10:27:22.739 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 10:27:23.053 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 10:28:13.938 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 10:28:14.699 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 10:28:20.343 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 10:28:20.343 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 10:28:30.553 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation\src\test\resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-16 10:28:30.560 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-16 10:28:33.668 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 10:28:34.701 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 10:28:35.757 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 10:28:35.929 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-16 10:28:36.213 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 10:28:36.311 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-16 10:28:42.483 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-16 10:28:46.621 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 10:28:46.893 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 17:53:13.703 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 17:53:14.453 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 17:53:20.101 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 17:53:20.101 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 17:53:20.822 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 17:53:21.133 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 17:54:03.992 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 17:54:04.751 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 17:54:10.419 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 17:54:10.419 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 17:54:11.227 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 17:54:11.580 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 17:59:37.144 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 17:59:37.891 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 17:59:43.567 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 17:59:43.568 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 17:59:44.323 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 17:59:44.681 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 18:00:21.631 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 18:00:22.383 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 18:00:28.048 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 18:00:28.049 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 18:00:28.905 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 18:00:29.243 [main] BaseTest - Inside driver cleanUp
+[INFO ] 2020-01-16 18:01:25.799 [TestNG-tests-1] TestListeners - I am in onStart method ChromeTests
+[INFO ] 2020-01-16 18:01:26.551 [TestNG-tests-1] BaseTest - remote browser will be launched.
+[INFO ] 2020-01-16 18:01:32.199 [TestNG-tests-1] BaseTest -  Remote Webdriver browsers are:chrome
+[INFO ] 2020-01-16 18:01:32.199 [TestNG-tests-1] BaseTest - Opening chrome driver in Node
+[INFO ] 2020-01-16 18:01:42.334 [TestNG-tests-1] BaseTest - C:\Users\P7110877\eclipse-workspace\testautomation\src\test\resources/TestSuite/qa_env/qa_env.properties
+[INFO ] 2020-01-16 18:01:42.343 [TestNG-tests-1] BaseTest - Opening: https://twitter.com/
+[INFO ] 2020-01-16 18:01:45.638 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 18:01:46.670 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 18:01:46.728 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-16 18:01:46.950 [TestNG-tests-1] BasePage - Checking for the object!!
+[INFO ] 2020-01-16 18:01:47.048 [TestNG-tests-1] BasePage - Element is found:By.xpath: //h2[@dir='ltr']/span
+[INFO ] 2020-01-16 18:01:52.449 [TestNG-tests-1] BaseTest - Browser will be killed now.
+[INFO ] 2020-01-16 18:01:56.613 [TestNG-tests-1] TestListeners - I am in onFinish method ChromeTests
+[INFO ] 2020-01-16 18:01:56.879 [main] BaseTest - Inside driver cleanUp
